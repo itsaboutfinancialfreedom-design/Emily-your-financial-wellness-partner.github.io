@@ -262,20 +262,16 @@
             <div class="absolute inset-0" style="background-image: radial-gradient(circle at 2px 2px, rgba(212,175,55,0.3) 1px, transparent 0); background-size: 40px 40px;"></div>
         </div>
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center max-w-4xl mx-auto">
                 <div class="fade-in-up">
-                    <p class="text-4xl md:text-5xl font-serif font-bold text-gold-400 mb-2">50K+</p>
-                    <p class="text-white/80 font-medium">TikTok Followers</p>
-                </div>
-                <div class="fade-in-up" style="transition-delay: 0.1s;">
                     <p class="text-4xl md:text-5xl font-serif font-bold text-gold-400 mb-2">1M+</p>
                     <p class="text-white/80 font-medium">Content Views</p>
                 </div>
-                <div class="fade-in-up" style="transition-delay: 0.2s;">
+                <div class="fade-in-up" style="transition-delay: 0.1s;">
                     <p class="text-4xl md:text-5xl font-serif font-bold text-gold-400 mb-2">200+</p>
                     <p class="text-white/80 font-medium">Clients Advised</p>
                 </div>
-                <div class="fade-in-up" style="transition-delay: 0.3s;">
+                <div class="fade-in-up" style="transition-delay: 0.2s;">
                     <p class="text-4xl md:text-5xl font-serif font-bold text-gold-400 mb-2">98%</p>
                     <p class="text-white/80 font-medium">Client Satisfaction</p>
                 </div>
